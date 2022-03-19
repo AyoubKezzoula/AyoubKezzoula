@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning JavaScript & React.Js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play/watch footall 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubKezzoula&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
