@@ -14,11 +14,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ayoub Kezzoula | LinkedIn " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/AyoubKezzoula/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ayoub Kezzoula" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/AyoubKezzoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AyoubKezzoula" height="30" width="40" /></a>
+  
+  
+<a href="https://www.facebook.com/Ayoub.Kezzoula35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ayoub Kezzoula" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/ayoubkezzoula/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayoubkezzoula" height="30" width="40" /></a>
 
-[<img align="left" alt="AyoubKezzoula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="ayoubkezzoula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
 
 <br />
 
