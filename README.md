@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning JavaScript & React.Js
 - 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 - 📫 How to reach me **Ayoub.Kezzoula35@gmail.com**
 
 <br />
@@ -41,8 +40,3 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
-
-[twitter]: https://twitter.com/AyoubKezzoula
-[instagram]: https://instagram.com/ayoubkezzoula
