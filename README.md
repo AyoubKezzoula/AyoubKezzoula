@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning JavaScript & React.Js
 - 👯 I’m looking to collaborate with other content creators
+- 💬 Ask me about **anything I know. I would be glad to share what I know with you**
+- 📫 How to reach me **Ayoub.Kezzoula35@gmail.com**
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubKezzoula&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,6 +14,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Ayoub Kezzoula | LinkedIn " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 [<img align="left" alt="AyoubKezzoula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
