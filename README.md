@@ -8,9 +8,11 @@
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 - 📫 How to reach me **Ayoub.Kezzoula35@gmail.com**
 
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubKezzoula&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
