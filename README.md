@@ -1,7 +1,7 @@
 ### Hi, I'm KEZZOULA Ayoub
 
 
-## Control and Automation Engineering Student. Front-end Web Developer ( React.Js ) 
+## Front-end Web Developer ( React.Js ) 
 
 - 🌱 I’m currently learning JavaScript & React.Js
 - 👯 I’m looking to collaborate with other content creators
